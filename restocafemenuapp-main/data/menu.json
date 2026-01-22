@@ -1,0 +1,102 @@
+{
+  "menu": [
+    {
+      "kategori": "coffee",
+      "nama": "Black Coffee",
+      "deskripsi": "Coffee for the tough ones.",
+      "harga": 45000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/kopiireng.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Cappuccino",
+      "deskripsi": "Cappuccino with delicious aroma.",
+      "harga": 55000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/capucino.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Coconut Latte",
+      "deskripsi": "Coconut latte, the coolest coffee.",
+      "harga": 46500,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/coconutlate.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Espresso",
+      "deskripsi": "American Espresso, delicious black.",
+      "harga": 49500,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/espreso.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Mochaccino",
+      "deskripsi": "Mochaccino and juninho are delicious.",
+      "harga": 43000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/mocacino.jpg"
+    },
+    {
+      "kategori": "food",
+      "nama": "Mixed Rice",
+      "deskripsi": "Super delicious mixed rice.",
+      "harga": 45000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasicampur.jpg"
+    },
+    {
+      "kategori": "food",
+      "nama": "Beef Rice",
+      "deskripsi": "Beef rice, truly delicious boss.",
+      "harga": 55000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasidaging.jpg"
+    },
+    {
+      "kategori": "food",
+      "nama": "Vegetarian Rice",
+      "deskripsi": "Vegetarian rice for your health.",
+      "harga": 30000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasivege.jpg"
+    },
+    {
+      "kategori": "food",
+      "nama": "Red Rice",
+      "deskripsi": "Red rice is very suitable for health.",
+      "harga": 48000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasimerah.jpg"
+    },
+    {
+      "kategori": "food",
+      "nama": "Fried Rice",
+      "deskripsi": "Super delicious and nutritious fried rice.",
+      "harga": 40000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasigoreng.jpg"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Mango Ice",
+      "deskripsi": "Super fresh mango ice.",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/esmangga.jpg"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Watermelon Ice",
+      "deskripsi": "Super fresh watermelon ice.",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/semangka.jpg"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Fruit Ice",
+      "deskripsi": "Fruit ice with various delicious flavors.",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/esbuah.jpg"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Lemon Tea",
+      "deskripsi": "Super fresh lemon tea, really delicious.",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/lemontea.jpg"
+    }
+  ]
+}
