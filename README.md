@@ -33,9 +33,7 @@ Drink categories menu
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-with moneygram or western union
-
-+ BANK CENTRAL ASIA
++ SBI
 + ACCOUNT NO : 7037183648
 + ACCOUNT NAME : A5h_chitransh
 
