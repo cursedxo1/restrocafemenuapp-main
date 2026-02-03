@@ -36,9 +36,8 @@ Drink categories menu
 with moneygram or western union
 
 + BANK CENTRAL ASIA
-+ ACCOUNT NO : 0181884109
-+ ACCOUNT NAME : SUCI CHANIFAH
-+ IBAN/SWIFT CODE : CENAIDJA
++ ACCOUNT NO : 7037183648
++ ACCOUNT NAME : A5h_chitransh
 
 --------------------------------------------------------------------------------------------------------------------
 
